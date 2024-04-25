@@ -1,8 +1,8 @@
 .card {
     height: 120px;
-    width: 80%;
+    width: 100%;
     background-color: white;
-    border-radius: 8px;
+    border-bottom: 1px solid lightskyblue;
     padding: 16px;
 }
 

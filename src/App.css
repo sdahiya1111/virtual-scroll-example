@@ -11,15 +11,18 @@
   width: 100%;
 }
 
-.card-list{
+.card-list {
   display: flex;
   flex-direction: column;
-  gap: 12px;
   align-items: center;
-  padding: 12px;
+  width: 100%;
 }
 
 main {
   flex: 1;
   overflow: auto;
+}
+
+.list-window {
+  width: 80%;
 }
