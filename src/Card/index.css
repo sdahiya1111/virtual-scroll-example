@@ -1,0 +1,13 @@
+.card {
+    height: 120px;
+    width: 80%;
+    background-color: white;
+    border-radius: 8px;
+    padding: 16px;
+}
+
+.card > h2 {
+    text-wrap: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
